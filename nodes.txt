@@ -1,30 +1,50 @@
-154.29.154.17:443#美国－洛杉矶-01
-64.49.28.188:443#美国－洛杉矶-02
-38.65.9.104:443#美国－洛杉矶-03
-209.209.59.89:443#美国－洛杉矶-04
-154.17.20.66:443#美国－洛杉矶-05
-186.241.106.11:443#美国－洛杉矶-06
-186.241.106.36:443#美国－洛杉矶-07
-186.241.106.8:443#美国－洛杉矶-08
-209.209.58.159:443#美国－洛杉矶-09
-167.253.97.183:443#美国－洛杉矶-10
-43.170.78.62:443#美国－洛杉矶-11
-186.241.106.195:443#美国－洛杉矶-12
-38.65.9.111:443#美国－洛杉矶-13
-38.65.9.66:443#美国－洛杉矶-14
-38.65.9.110:443#美国－洛杉矶-15
-38.65.9.251:443#美国－洛杉矶-16
-209.248.57.118:443#美国－洛杉矶-17
-205.186.76.209:443#美国－洛杉矶-18
-154.29.145.99:443#美国－洛杉矶-19
-76.9.111.45:443#美国－洛杉矶-20
-205.186.76.187:443#美国－洛杉矶-21
-154.29.154.239:443#美国－洛杉矶-22
-154.29.150.87:443#美国－洛杉矶-23
-205.186.76.242:443#美国－洛杉矶-24
-89.41.26.121:443#美国－洛杉矶-25
-144.172.105.106:443#美国－洛杉矶-26
-176.122.166.55:443#美国－洛杉矶-27
-144.172.103.237:443#美国－洛杉矶-28
-179.255.108.180:443#美国－洛杉矶-29
-205.186.76.237:443#美国－洛杉矶-30
+mail.notion.com:443#US 联通优选[mail.notion.com 169ms]
+absen.com:443#US 联通优选[absen.com 171ms]
+gitlab.com:443#US 联通优选[gitlab.com 175ms]
+nodeloc.cc:443#US 联通优选[nodeloc.cc 177ms]
+hostinger.com:443#US 联通优选[hostinger.com 177ms]
+a.pub.network:443#US 联通优选[a.pub.network 177ms]
+example.com:443#US 联通优选[example.com 177ms]
+nist.gov:443#US 联通优选[nist.gov 177ms]
+cdn.sketch.com:443#US 联通优选[cdn.sketch.com 178ms]
+qoj.ac:443#US 联通优选[qoj.ac 178ms]
+www.visa.com.tw:443#US 联通优选[www.visa.com.tw 178ms]
+cf.777791.xyz:443#US 联通优选[cf.777791.xyz 178ms]
+www.epicgames.com:443#US 联通优选[www.epicgames.com 179ms]
+hlevakha.gov.ua:443#US 联通优选[hlevakha.gov.ua 179ms]
+www.broadcom.com:443#US 联通优选[www.broadcom.com 181ms]
+login.rockwellautomation.com:443#US 联通优选[login.rockwellautomation.com 181ms]
+api.producthunt.com:443#US 联通优选[api.producthunt.com 182ms]
+www.itedev.com:443#US 联通优选[www.itedev.com 182ms]
+grass.io:443#US 联通优选[grass.io 182ms]
+centerofthewest.org:443#US 联通优选[centerofthewest.org 183ms]
+www.hypixel.net:443#US 联通优选[www.hypixel.net 183ms]
+cdnjs.com:443#US 联通优选[cdnjs.com 184ms]
+digitalocean.com:443#US 联通优选[digitalocean.com 184ms]
+www.mediafire.com:443#US 联通优选[www.mediafire.com 184ms]
+www.carousell.sg:443#US 联通优选[www.carousell.sg 185ms]
+cf-ip-site.vov.moe:443#US 联通优选[cf-ip-site.vov.moe 185ms]
+wppaunz.com:443#US 联通优选[wppaunz.com 185ms]
+zoominfo.com:443#US 联通优选[zoominfo.com 185ms]
+salaryexpert.com:443#US 联通优选[salaryexpert.com 186ms]
+saas.sin.fan:443#US 联通优选[saas.sin.fan 186ms]
+bbs.alipansou.com:443#US 联通优选[bbs.alipansou.com 186ms]
+bitsight.com:443#US 联通优选[bitsight.com 186ms]
+dash.domain.digitalplat.org:443#US 联通优选[dash.domain.digitalplat.org 186ms]
+development.ihg.com:443#US 联通优选[development.ihg.com 187ms]
+ikankeji.com:443#US 联通优选[ikankeji.com 187ms]
+53.fs1.hubspotusercontent-na1.net:443#US 联通优选[53.fs1.hubspotusercontent-na1.net 187ms]
+redis.io:443#US 联通优选[redis.io 187ms]
+cf.nyanya.moe:443#US 联通优选[cf.nyanya.moe 187ms]
+staticdelivery.nexusmods.com:443#US 联通优选[staticdelivery.nexusmods.com 187ms]
+www.ox.ac.uk:443#US 联通优选[www.ox.ac.uk 187ms]
+journeys.com:443#US 联通优选[journeys.com 188ms]
+envato.com:443#US 联通优选[envato.com 188ms]
+test.509666.xyz:443#US 联通优选[test.509666.xyz 188ms]
+api.gzcrtw.com:443#US 联通优选[api.gzcrtw.com 188ms]
+academy.mastercard.com:443#US 联通优选[academy.mastercard.com 188ms]
+alternativeto.net:443#US 联通优选[alternativeto.net 189ms]
+constitution.congress.gov:443#US 联通优选[constitution.congress.gov 189ms]
+kickstarter.com:443#US 联通优选[kickstarter.com 189ms]
+scalacube.com:443#US 联通优选[scalacube.com 189ms]
+coreweave.com:443#US 联通优选[coreweave.com 189ms]
