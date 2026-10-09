@@ -1,50 +1,20 @@
-mail.notion.com:443#US 联通优选[mail.notion.com 169ms]
-absen.com:443#US 联通优选[absen.com 171ms]
-gitlab.com:443#US 联通优选[gitlab.com 175ms]
-nodeloc.cc:443#US 联通优选[nodeloc.cc 177ms]
-hostinger.com:443#US 联通优选[hostinger.com 177ms]
-a.pub.network:443#US 联通优选[a.pub.network 177ms]
-example.com:443#US 联通优选[example.com 177ms]
-nist.gov:443#US 联通优选[nist.gov 177ms]
-cdn.sketch.com:443#US 联通优选[cdn.sketch.com 178ms]
-qoj.ac:443#US 联通优选[qoj.ac 178ms]
-www.visa.com.tw:443#US 联通优选[www.visa.com.tw 178ms]
-cf.777791.xyz:443#US 联通优选[cf.777791.xyz 178ms]
-www.epicgames.com:443#US 联通优选[www.epicgames.com 179ms]
-hlevakha.gov.ua:443#US 联通优选[hlevakha.gov.ua 179ms]
-www.broadcom.com:443#US 联通优选[www.broadcom.com 181ms]
-login.rockwellautomation.com:443#US 联通优选[login.rockwellautomation.com 181ms]
-api.producthunt.com:443#US 联通优选[api.producthunt.com 182ms]
-www.itedev.com:443#US 联通优选[www.itedev.com 182ms]
-grass.io:443#US 联通优选[grass.io 182ms]
-centerofthewest.org:443#US 联通优选[centerofthewest.org 183ms]
-www.hypixel.net:443#US 联通优选[www.hypixel.net 183ms]
-cdnjs.com:443#US 联通优选[cdnjs.com 184ms]
-digitalocean.com:443#US 联通优选[digitalocean.com 184ms]
-www.mediafire.com:443#US 联通优选[www.mediafire.com 184ms]
-www.carousell.sg:443#US 联通优选[www.carousell.sg 185ms]
-cf-ip-site.vov.moe:443#US 联通优选[cf-ip-site.vov.moe 185ms]
-wppaunz.com:443#US 联通优选[wppaunz.com 185ms]
-zoominfo.com:443#US 联通优选[zoominfo.com 185ms]
-salaryexpert.com:443#US 联通优选[salaryexpert.com 186ms]
-saas.sin.fan:443#US 联通优选[saas.sin.fan 186ms]
-bbs.alipansou.com:443#US 联通优选[bbs.alipansou.com 186ms]
-bitsight.com:443#US 联通优选[bitsight.com 186ms]
-dash.domain.digitalplat.org:443#US 联通优选[dash.domain.digitalplat.org 186ms]
-development.ihg.com:443#US 联通优选[development.ihg.com 187ms]
-ikankeji.com:443#US 联通优选[ikankeji.com 187ms]
-53.fs1.hubspotusercontent-na1.net:443#US 联通优选[53.fs1.hubspotusercontent-na1.net 187ms]
-redis.io:443#US 联通优选[redis.io 187ms]
-cf.nyanya.moe:443#US 联通优选[cf.nyanya.moe 187ms]
-staticdelivery.nexusmods.com:443#US 联通优选[staticdelivery.nexusmods.com 187ms]
-www.ox.ac.uk:443#US 联通优选[www.ox.ac.uk 187ms]
-journeys.com:443#US 联通优选[journeys.com 188ms]
-envato.com:443#US 联通优选[envato.com 188ms]
-test.509666.xyz:443#US 联通优选[test.509666.xyz 188ms]
-api.gzcrtw.com:443#US 联通优选[api.gzcrtw.com 188ms]
-academy.mastercard.com:443#US 联通优选[academy.mastercard.com 188ms]
-alternativeto.net:443#US 联通优选[alternativeto.net 189ms]
-constitution.congress.gov:443#US 联通优选[constitution.congress.gov 189ms]
-kickstarter.com:443#US 联通优选[kickstarter.com 189ms]
-scalacube.com:443#US 联通优选[scalacube.com 189ms]
-coreweave.com:443#US 联通优选[coreweave.com 189ms]
+104.25.52.238:443#美国－洛杉矶-01
+104.27.73.93:443#美国－洛杉矶-02
+104.25.160.104:443#美国－洛杉矶-03
+104.18.59.248:443#美国－洛杉矶-04
+104.25.180.116:443#美国－洛杉矶-05
+104.24.72.95:443#美国－洛杉矶-06
+104.25.199.147:443#美国－洛杉矶-07
+104.25.240.108:443#美国－洛杉矶-08
+104.25.21.31:443#美国－洛杉矶-09
+104.25.62.169:443#美国－洛杉矶-10
+141.101.113.110:443#美国－洛杉矶-11
+104.25.27.215:443#美国－洛杉矶-12
+104.25.107.221:443#美国－洛杉矶-13
+104.25.126.173:443#美国－洛杉矶-14
+104.20.45.145:443#美国－洛杉矶-15
+104.16.218.116:443#美国－洛杉矶-16
+172.64.147.36:443#美国－洛杉矶-17
+104.16.172.148:443#美国－洛杉矶-18
+104.17.183.235:443#美国－洛杉矶-19
+104.18.49.166:443#美国－洛杉矶-20
